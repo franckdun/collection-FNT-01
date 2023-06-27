@@ -18,7 +18,7 @@
 
 <!-- Partie 5 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-## PQRS - Construisez un site ecommerce en JavaScript	
+## PQRS - Déposez votre première collection de NFT sur Opensea	
 	
 ### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-F4511E"></a>&#32; 90h de formation - A finir avant le 16/01/2023.</p> 
 
