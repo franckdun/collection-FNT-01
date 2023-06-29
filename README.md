@@ -18,9 +18,9 @@
 
 <!-- Partie 5 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-## PQRS - Déposez votre première collection de NFT sur Opensea	
+## Déposez votre première collection de NFT sur Opensea	
 	
-### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-F4511E"></a>&#32; 90h de formation.</p> 
+### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-F4511E"></a></p> 
 
 <p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_1- Création des Layers -F4511E" width="600"> </a></p>
 
