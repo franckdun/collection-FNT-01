@@ -22,8 +22,11 @@
 	
 ### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-F4511E"></a></p> 
 
-<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_1- Création des Layers -F4511E" width="600"> </a></p>
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_1- Création des Layers -F4511E" width="#"> </a></p>
 
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_2- Création des Layers -F4511E" width="#"> </a></p>
+
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_3- Création des Layers -F4511E" width="#"> </a></p>
 	
 	Durée: 4h  ||  Difficulté: 🍓  ||  Etapes:  📌🖋📌🖋📌🖋	
 	
