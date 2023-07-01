@@ -22,18 +22,14 @@
 	
 ### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-F4511E"></a></p> 
 
-<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_1- Création des Layers -F4511E" width="#"> </a></p>
-
-<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_2- Création des Layers -F4511E" width="#"> </a></p>
-
-<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_3- Création des Layers -F4511E" width="#"> </a></p>
-	
-	Durée: 4h  ||  Difficulté: 🍓  ||  Etapes:  📌🖋📌🖋📌🖋	
-	
 	
 <p align="center"><a href="https://mega.nz/file/lc413YxA#6sqj1AyRJpi5jXDGzun2cSQiscJKqcF-i4qLKeqKZbw"><img src="https://img.shields.io/badge/Toute les Videos du cours-Mega-ff002f"></a></p>
 
-	
+
+Durée: 4h  ||  Difficulté: 🍓  ||  Etapes:  📌🖋📌🖋📌🖋	
+
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_1- Création des Layers -F4511E" width="#"> </a></p>
+
 Table des matières
 
 ```	
@@ -46,7 +42,9 @@ Table des matières
 	
     	Quiz : Servez-vous des API REST pour vos projets de code
 ```
-	
+
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_2- Création des Layers -F4511E" width="#"> </a></p>
+
 ```	
     Partie 2 - Formulez des requêtes et envoyez des réponses avec une API REST 
 	
@@ -57,7 +55,9 @@ Table des matières
 	
         Quiz : Servez-vous des API REST pour vos projets de code
 ```
-	
+
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_3- Création des Layers -F4511E" width="#"> </a></p>
+
 ```	
     Partie 3 - Concevez des API REST 
 
@@ -70,9 +70,8 @@ Table des matières
         Quiz : Concevez des API REST
 ```
 	
-```	
-    Certificat de réussite 
-```
+	
+	
 
 
 <summary><p align="left"><em><strong>Module 1, 2, 3.</strong></em></p></summary>
