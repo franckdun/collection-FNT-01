@@ -25,22 +25,20 @@
 	
 <p align="center"><a href="https://mega.nz/file/lc413YxA#6sqj1AyRJpi5jXDGzun2cSQiscJKqcF-i4qLKeqKZbw"><img src="https://img.shields.io/badge/Toute les Videos du cours-Mega-ff002f"></a></p>
 
-
-Durée: 4h  ||  Difficulté: 🍓  ||  Etapes:  📌🖋📌🖋📌🖋	
+Table des matières
 
 <p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_1- Création des Layers -F4511E" width="#"> </a></p>
 
-Table des matières
 
 ```	
-    Partie 1 - Utilisez des API REST pour vos projets de code
+    Partie 1 - Instalation des prérequis
 	
-    	1. Tirez un maximum de ce cours
-    	2. Initiez-vous au fonctionnement des API
-    	3. Identifiez les avantages d’une API REST
-	4. Utilisez les ressources et collections REST
+    	1. instalation vs code
+    	2. instalation nvm et node js
+    	3. recupération de engine
+	4. création de layers avec photochop
+        5. stockage sur IPFS
 	
-    	Quiz : Servez-vous des API REST pour vos projets de code
 ```
 
 <p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_2- Création des Layers -F4511E" width="#"> </a></p>
