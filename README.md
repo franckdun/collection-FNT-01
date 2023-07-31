@@ -19,9 +19,9 @@
 
 <p align="center"><a href="https://github.com/franckdun/collection-FNT-01-module-1"> <img src="https://img.shields.io/badge/MODULE_1-Votre première collection de NFT sur Opensea-F4511E" width="#"> </a></p>
 
-<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_2- Création des Layers -F4511E" width="#"> </a></p>
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_2- Création -F4511E" width="#"> </a></p>
 
-<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_3- Création des Layers -F4511E" width="#"> </a></p>
+<p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_3- Création -F4511E" width="#"> </a></p>
 	
 <!-- ORGANISATION ///////////////////////////////////////////////////////////////////////////////////////////////////////////// -->	
 	
@@ -50,17 +50,5 @@ Acquisition
 
 <!-- HELP //////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 	
-<details><summary><p align="left"><em><strong>HELP</strong></em></p></summary>	
 
-<p> <img src="https://github.com/franckdun/Learning-plan_Openclassrooms/blob/main/Formation/Programme_de_Formation/Img/Armel.jpg" width="50"> N'ésiter pas, demandez-moi ; </p>
-
-``` https://openclassrooms.com/fr/mp/nouveau/armel-ajavon-1 ``` </p>
-
-[![Documentation milestones](https://img.shields.io/badge/Doc-Milestones-blue?logo=github&logoColor=white)](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests) Pour avoir de l'aide sur le fonctionnement des milestones.
-
-<p align="left"><a href="https://www.zenhub.com/"> <img src="https://img.shields.io/badge/-zenhub-4f57f9?style=for-the-badge&labelColor=white&logo=zenhub&logoColor=4f57f9"> </a>Pour travailler en équipe.</p>
-
-</details>
-
----
 
