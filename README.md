@@ -1,10 +1,6 @@
 # <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20NFT 2023%20🎓-F4511E" width="750" ></a></p>
 
 <p align="center">
-<!-- mail -->
-<a href="https://mail.google.com/mail/u/0/#label/Openclassrooms"> <img src="https://img.shields.io/badge/📬-MAIL-7451eb"  >
-<!-- Agenda -->
-<a href="https://calendar.google.com/calendar/u/0/r/month/2022/7/1?pli=1"> <img src="https://img.shields.io/badge/📆-AGENDA-7451eb"  >
 <!-- taches -->
 <a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+sort%3Acreated-asc"> <img src="https://img.shields.io/badge/📌-ALL ISSUES-7451eb" ></a>
 <!-- projet -->
@@ -16,60 +12,21 @@
 <!-- LEARN GALERY -->
 <a href="https://github.com/franckdun/Learn-GALERY"><img src="https://img.shields.io/badge/Learn-Galery-ffc944" width="#" height="#" ></a></p>
 
-<!-- Partie 5 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- Partie 1 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-## Déposez votre première collection de NFT sur Opensea	
-	
 ### <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms/issues?q=is%3Aopen+is%3Aissue+project%3Afranckdun%2F5+mil"> <img src="https://img.shields.io/badge/📌-Issues-F4511E"></a></p> 
 
-	
-<p align="center"><a href="https://mega.nz/file/lc413YxA#6sqj1AyRJpi5jXDGzun2cSQiscJKqcF-i4qLKeqKZbw"><img src="https://img.shields.io/badge/Toute les Videos du cours-Mega-ff002f"></a></p>
 
-Table des matières
-
-<p align="center"><a href="https://github.com/franckdun/collection-FNT-01-module-1"> <img src="https://img.shields.io/badge/MODULE_1- Création des Layers -F4511E" width="#"> </a></p>
+<p align="center"><a href="https://github.com/franckdun/collection-FNT-01-module-1"> <img src="https://img.shields.io/badge/MODULE_1-Votre première collection de NFT sur Opensea-F4511E" width="#"> </a></p>
 
 <p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_2- Création des Layers -F4511E" width="#"> </a></p>
 
-```	
-    Partie 2 - Formulez des requêtes et envoyez des réponses avec une API REST 
-	
-        1. Utilisez Postman pour formuler vos requêtes
-        2. Réalisez vos premières requêtes sur une API
-	3. Authentifiez une API pour plus de sécurité
-	4. Entraînez-vous avec l’API GitHub
-	
-        Quiz : Servez-vous des API REST pour vos projets de code
-```
-
 <p align="center"><a href="#"> <img src="https://img.shields.io/badge/MODULE_3- Création des Layers -F4511E" width="#"> </a></p>
-
-```	
-    Partie 3 - Concevez des API REST 
-
-        1. Définissez la structure de votre API REST
-        2. Concevez les endpoints de votre API
-	3. Utilisez les fonctionnalités avancées des endpoints
-	4. Choisissez des frameworks pour construire votre API
-	5. Résumé du cours
-
-        Quiz : Concevez des API REST
-```
-	
-	
-	
-
 
 <summary><p align="left"><em><strong>Module 1, 2, 3.</strong></em></p></summary>
 
-
 <p align="center"><a href="https://openclassrooms.com/fr/courses/6175841-apprenez-a-programmer-avec-javascript"> <img src="https://img.shields.io/badge/Go%20to-MODULE_1-F4511E"> </a><a href="https://openclassrooms.com/fr/courses/5543061-ecrivez-du-javascript-pour-le-web?archived-source=1916641"> <img src="https://img.shields.io/badge/Go%20to-MODULE_2-F4511E"> </a><a href="https://openclassrooms.com/fr/courses/6573181-adoptez-les-api-rest-pour-vos-projets-web"> <img src="https://img.shields.io/badge/Go%20to-MODULE_3-F4511E"> </a></p>
 	
-	
-		
-		
-
-
 <!-- ORGANISATION ///////////////////////////////////////////////////////////////////////////////////////////////////////////// -->	
 	
 <details><summary><h4><em><strong>Learning Organization</strong></em></h4></summary>
